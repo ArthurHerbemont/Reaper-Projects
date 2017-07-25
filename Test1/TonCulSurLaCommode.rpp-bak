@@ -1,0 +1,669 @@
+<REAPER_PROJECT 0.1 "5.40/x64" 1500940467
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 29.88300344840891 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 23 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 100 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 19.2
+  SELECTION2 0 19.2
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {D0A4E7D6-D9E3-4C84-ADEB-269893E2CCF8}
+    NAME "Piano e"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 4128 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D0A4E7D6-D9E3-4C84-ADEB-269893E2CCF8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 506 258
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VSTi: mda ePiano (x86) (maxim digital audio)" "mda ePiano.dll" 0 "" 1296318821
+        ZUFETe9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEAA=
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AAAAP2ZmJj8AAIA+AAAAPwAAAD8AAAA/BoEVPgAAAAA=
+        RGVmYXVsdABEZWZhdWx0ABAAAAA=
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {4E5AFB13-56DA-48BA-9995-99E4BABFDE36}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {06DF4862-7E60-4EF0-8C1D-CD49C34C5B96}
+      IID 46
+      NAME "01-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A94EE6EB-15B3-4A50-8730-A67DE201C35C}
+      RECPASS 19
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {AC0096F8-E535-42A8-9D15-9DE4682114CF}
+        E 0 90 37 69
+        E 8 90 3b 61
+        E 0 90 34 59
+        E 78 80 37 7f
+        E 18 80 34 72
+        E 11 80 3b 6c
+        E 1340 90 36 52
+        E 11 90 3d 4f
+        E 2 90 39 6c
+        E 1407 80 39 7f
+        E 1 80 36 7f
+        E 4 90 36 23
+        E 5 80 3d 7f
+        E 103 80 36 21
+        E 132 90 36 34
+        E 152 80 36 28
+        E 319 90 36 33
+        E 129 80 36 1b
+        E 43 90 40 42
+        E 98 90 42 7f
+        E 128 80 40 36
+        E 48 90 40 2f
+        E 66 80 42 6d
+        E 137 80 40 54
+        E 288 90 3b 75
+        E 157 80 3b 52
+        E 303 90 36 4a
+        E 144 80 36 36
+        E 343 90 40 5f
+        E 6 90 3d 6d
+        E 2 90 3a 63
+        E 2063 80 40 75
+        E 2 80 3a 7f
+        E 3 80 3d 77
+        E 95 90 37 69
+        E 4 90 34 5c
+        E 4 90 3b 4d
+        E 75 80 37 7c
+        E 13 80 3b 7f
+        E 8 80 34 6f
+        E 1375 90 36 4f
+        E 0 90 39 69
+        E 9 90 3d 4f
+        E 1401 80 39 7f
+        E 5 80 36 7f
+        E 10 80 3d 74
+        E 15 90 36 30
+        E 126 80 36 39
+        E 106 90 36 39
+        E 183 80 36 2e
+        E 300 90 36 36
+        E 203 80 36 20
+        E 44 90 40 37
+        E 64 90 42 74
+        E 104 80 40 38
+        E 101 90 40 53
+        E 80 80 42 5d
+        E 109 80 40 36
+        E 255 90 3b 51
+        E 128 80 3b 0e
+        E 393 90 36 2c
+        E 186 80 36 23
+        E 288 90 40 51
+        E 10 90 3a 4a
+        E 17 90 3d 24
+        E 2076 80 3a 7f
+        E 6 90 3b 5c
+        E 2 90 37 61
+        E 4 80 3d 7f
+        E 4 90 34 53
+        E 1 80 40 7c
+        E 75 80 37 7f
+        E 7 80 34 6c
+        E 19 80 3b 75
+        E 1330 90 36 4f
+        E 10 90 39 6c
+        E 3 90 3d 52
+        E 1279 80 39 7f
+        E 3 80 3d 7f
+        E 2 80 36 4f
+        E 37 90 36 34
+        E 151 80 36 2b
+        E 86 90 36 37
+        E 190 80 36 32
+        E 325 90 36 44
+        E 210 80 36 1e
+        E 24 90 40 39
+        E 94 90 42 7b
+        E 114 80 40 0c
+        E 126 90 40 49
+        E 74 80 42 66
+        E 130 80 40 49
+        E 276 90 3b 6f
+        E 141 80 3b 06
+        E 219 90 36 2c
+        E 219 80 36 37
+        E 261 90 40 54
+        E 6 90 3d 5d
+        E 6 90 3a 63
+        E 2235 90 37 69
+        E 2 80 3a 69
+        E 2 80 40 70
+        E 4 90 3b 61
+        E 0 90 34 59
+        E 4 80 3d 4a
+        E 74 80 37 7f
+        E 18 80 34 72
+        E 11 80 3b 6c
+        E 1340 90 36 52
+        E 11 90 3d 4f
+        E 2 90 39 6c
+        E 1407 80 39 7f
+        E 1 80 36 7f
+        E 9 80 3d 7f
+        e 28 90 36 30
+        e 126 80 36 39
+        e 106 90 36 39
+        e 183 80 36 2e
+        e 300 90 36 36
+        e 203 80 36 20
+        e 44 90 40 37
+        e 64 90 42 74
+        e 104 80 40 38
+        e 101 90 40 53
+        e 80 80 42 5d
+        e 109 80 40 36
+        e 255 90 3b 51
+        e 128 80 3b 0e
+        e 393 90 36 2c
+        e 186 80 36 23
+        e 288 90 40 51
+        e 10 90 3a 4a
+        e 17 90 3d 24
+        e 2076 80 3a 7f
+        e 12 80 3d 7f
+        e 5 80 40 7c
+        E 10 b0 7b 00
+        GUID {524E4647-3CB9-4845-B271-572D00E9405A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 95
+        VELLANE -1 100 0
+        CFGEDITVIEW -2079.001676 0.019107 49 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 -8 -8 1544 832 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {062E82F2-AA07-4FEF-AD3B-6B56D59041F1}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 1 4128 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {062E82F2-AA07-4FEF-AD3B-6B56D59041F1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 505 171 506 258
+      SHOW 2
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VSTi: mda ePiano (x86) (maxim digital audio)" "mda ePiano.dll" 0 "" 1296318821
+        ZUFETe9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAAAAEIA=
+        776t3g3wrd4AAAA/AAAAPwAAAD8AAAA/AAAAP2ZmJj8AAIA+AAAAPwAAAD8AAAA/BoEVPgAAAAA=
+        RGVmYXVsdABEZWZhdWx0ABAAAAA=
+      >
+      PRESETNAME Default
+      FLOATPOS 537 203 295 211
+      FXID {DDBE9CD3-3AD5-4770-BDFC-2AB448A3AFE3}
+      WAK 0
+      BYPASS 0 0 0
+      <VST "VSTi: Analog Factory (x86) (Arturia)" AnalogFactory.dll 0 "" 1634885990
+        ZmFyYe5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAACXBAAAAQAAAAAAEAA=
+        /////4sAAABTeW5jcm9zb2Z0Q29udGVudEhlYWRlcgUAAACLAAAAAAAAAAQEAEsW0yFQA5qdWoCThEACAAAAAQAAADAAUAAAAAAAAQAEAAAAAgAAAAAAAAAAAAAAAAAA
+        AAAAEJwRKJUMc36Z1Fp76OYFsQAAAAAAAAAAAAAAAAAAAABOBgAAT3QAAEYAAABTAAAAAAQAAOhviVZ/wlvJcPF6b2tij+3oj3KyrHTEL8l8yLBetCBBQZwpWtrutp44
+        oTJSk8lKF2e3YQoym4roxRNzcHlfNLROCSiqC0vBQy1SX2FVw0juio9kxZ7mbWKS1qwSTVNCJmvcZj/YMwwYd87uohHC8MKCuAM4K3/jzvaGbpU8igruHjvyItegZ6AS
+        qIHTElyOFJuYawCk7NXum2MkhFjPN5NqHkkHl/GPeuLNmMpD2uTJYvhw8C6AjZHLLApV5g3JboXtC+K0bhxt0jbEw1bcgnUosYODUM8x5CQeSWmWpMa96/fpwQAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {C5D6BC4E-A52C-407F-AD6C-0774D3BEBB62}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.2
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {39EBC230-8EF0-4A44-B97B-2A3E130E92C8}
+      IID 51
+      NAME "02-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 17268935 R
+      GUID {CD890D9F-E50A-45C3-9100-3B209730C00F}
+      RECPASS 23
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {0B40B402-21BD-4FE2-B555-2A0B127915EC}
+        E 0 90 40 7a
+        E 0 90 42 7f
+        E 0 80 40 78
+        E 113 80 42 69
+        E 628 90 40 6f
+        E 119 80 40 78
+        E 90 90 43 70
+        E 126 80 43 66
+        E 500 90 40 75
+        E 118 80 40 7f
+        E 142 90 45 72
+        E 127 80 45 72
+        E 475 90 45 66
+        E 170 80 45 6c
+        E 1088 90 46 7f
+        E 62 90 45 7a
+        E 44 80 46 46
+        E 57 80 45 4d
+        E 71 90 45 37
+        E 175 80 45 66
+        E 280 90 43 66
+        E 97 80 43 5f
+        E 312 90 42 7f
+        E 105 80 42 7b
+        E 349 90 40 75
+        E 138 80 40 75
+        E 558 90 40 78
+        E 124 80 40 75
+        E 941 90 40 75
+        E 125 80 40 7f
+        E 112 90 42 7f
+        E 111 80 42 77
+        E 549 90 40 7a
+        E 121 80 40 7f
+        E 94 90 43 7a
+        E 125 80 43 69
+        E 500 90 40 72
+        E 130 80 40 75
+        E 124 90 45 75
+        E 142 80 45 6c
+        E 338 90 45 75
+        E 141 80 45 5f
+        E 1206 90 46 7f
+        E 111 90 45 6c
+        E 6 80 46 7f
+        E 241 80 45 6c
+        E 270 90 43 75
+        E 131 80 43 51
+        E 340 90 42 7f
+        E 104 80 42 7f
+        E 327 90 40 66
+        E 143 80 40 72
+        E 575 90 40 75
+        E 133 80 40 72
+        E 1965 90 40 7a
+        E 130 80 40 7f
+        E 90 90 42 7f
+        E 95 80 42 7f
+        E 806 90 43 7a
+        E 140 80 43 78
+        E 766 90 45 7c
+        E 94 80 45 7f
+        E 465 90 45 61
+        E 144 80 45 7f
+        E 1190 90 45 7f
+        E 4 90 46 4d
+        E 121 80 46 07
+        E 210 80 45 66
+        E 263 90 43 78
+        E 111 80 43 78
+        E 346 90 42 7f
+        E 84 80 42 7b
+        E 355 90 40 70
+        E 132 80 40 70
+        E 516 90 40 75
+        E 125 80 40 75
+        E 1373 90 40 59
+        E 226 80 40 47
+        E 7605 90 40 78
+        E 156 80 40 00
+        E 0 b0 7b 00
+        GUID {05A54DF1-6686-4DDC-BBA4-A5E4D7E717D2}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 135
+        VELLANE -1 100 0
+      >
+      TAKE SEL
+      NAME "02-Recorded MIDI"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 27000660 R
+      GUID {95CC72EA-E4D2-4CB0-A1C8-11DA7D694622}
+      RECPASS 24
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {8FAF64EC-EBBF-40DD-BBBC-62CE01F3B11C}
+        E 0 90 40 78
+        E 0 90 42 7f
+        E 0 80 40 72
+        E 116 80 42 69
+        E 598 90 40 75
+        E 119 80 40 7f
+        E 92 90 43 7a
+        E 136 80 43 55
+        E 585 90 40 75
+        E 118 80 40 7f
+        E 104 90 45 7a
+        E 126 80 45 70
+        E 321 90 45 78
+        E 135 80 45 59
+        E 1182 90 46 7f
+        E 34 90 45 78
+        E 142 80 46 09
+        E 207 80 45 5f
+        E 254 90 43 75
+        E 134 80 43 5c
+        E 318 90 42 7f
+        E 105 80 42 77
+        E 340 90 40 66
+        E 144 80 40 70
+        E 565 90 40 75
+        E 119 80 40 78
+        E 1678 90 40 69
+        E 194 80 40 7f
+        E 148 90 42 7f
+        E 82 80 42 7f
+        E 561 90 40 4c
+        E 38 80 40 4c
+        E 163 90 43 72
+        E 107 80 43 78
+        E 841 90 46 7f
+        E 67 90 45 6c
+        E 6 80 46 7f
+        E 40 80 45 7a
+        E 407 90 45 75
+        E 155 80 45 4d
+        E 1092 90 45 78
+        E 294 80 45 3b
+        E 166 90 43 5c
+        E 103 80 43 59
+        E 381 90 42 7f
+        E 86 80 42 77
+        E 351 90 40 69
+        E 138 80 40 69
+        E 500 90 40 6c
+        E 165 80 40 55
+        E 3338 b0 7b 00
+        GUID {BFE5736A-EDAB-4E08-83DD-97124792CA2D}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 136
+        VELLANE -1 100 0
+      >
+    >
+    <ITEM
+      POSITION 21.6
+      SNAPOFFS 0
+      LENGTH 19.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 1
+      SEL 0
+      IGUID {7F639240-E35C-46F8-90D6-DA1375277E86}
+      IID 50
+      NAME "02-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8DE55D8-AF3C-4925-8EEE-AC1E248697B9}
+      RECPASS 22
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {8CEDC307-75C9-411F-8B65-D72E59691FAA}
+        E 0 90 28 5c
+        E 335 80 28 33
+        E 385 90 28 4f
+        E 196 80 28 3b
+        E 77 90 2b 66
+        E 264 80 2b 0b
+        E 424 90 2b 55
+        E 238 90 2d 69
+        E 69 80 2b 5c
+        E 182 80 2d 54
+        E 599 90 2d 5f
+        E 510 90 2b 69
+        E 70 80 2d 64
+        E 189 80 2b 36
+        E 230 90 2a 74
+        E 314 80 2a 1a
+        E 438 90 2a 70
+        E 182 80 2a 39
+        E 12 90 2d 5c
+        E 317 80 2d 3c
+        E 416 90 2d 4d
+        E 236 90 2f 59
+        E 42 80 2d 3c
+        E 202 80 2f 40
+        E 703 90 2f 69
+        E 515 90 2b 66
+        E 116 80 2f 59
+        E 398 90 28 4f
+        E 49 80 2b 45
+        E 257 80 28 24
+        E 407 90 28 53
+        E 192 90 2b 6c
+        E 1 80 28 4d
+        E 266 80 2b 20
+        E 467 90 2b 53
+        E 279 90 2d 5c
+        E 54 80 2b 52
+        E 150 80 2d 53
+        E 702 90 2d 6c
+        E 468 90 2b 66
+        E 83 80 2d 49
+        E 406 90 2a 70
+        E 28 80 2b 54
+        E 277 80 2a 16
+        E 432 90 2a 69
+        E 201 80 2a 3f
+        E 31 90 2d 51
+        E 251 80 2d 52
+        E 538 90 2d 59
+        E 225 90 2f 69
+        E 94 80 2d 59
+        E 1414 90 2e 69
+        E 136 80 2f 45
+        E 351 80 2e 69
+        E 6 90 28 52
+        E 329 80 28 3c
+        E 350 90 28 52
+        E 167 80 28 47
+        E 98 90 2b 57
+        E 232 80 2b 4d
+        E 515 90 2b 59
+        E 216 90 2d 53
+        E 76 80 2b 4d
+        E 190 80 2d 4d
+        E 588 90 2d 5f
+        E 462 90 2b 5c
+        E 70 80 2d 34
+        E 407 80 2b 39
+        E 7 90 2a 6d
+        E 238 80 2a 1d
+        E 506 90 2a 69
+        E 163 80 2a 46
+        E 42 90 2d 54
+        E 262 80 2d 45
+        E 454 90 2d 53
+        E 225 90 2f 4f
+        E 81 80 2d 54
+        E 281 80 2f 1c
+        E 601 90 2f 5f
+        E 617 90 2b 5c
+        E 86 80 2f 55
+        E 197 80 2b 53
+        E 72 90 28 5c
+        E 355 80 28 47
+        E 359 90 28 4c
+        E 191 80 28 47
+        E 50 90 2b 53
+        E 249 80 2b 47
+        E 551 90 2b 51
+        E 263 90 2d 43
+        E 61 80 2b 4d
+        E 164 80 2d 4c
+        E 622 90 2d 6c
+        E 515 90 2b 5f
+        E 102 80 2d 53
+        E 388 90 2a 77
+        E 33 80 2b 4f
+        E 216 80 2a 23
+        E 491 90 2a 70
+        E 190 80 2a 44
+        E 23 90 2b 5f
+        E 300 80 2b 45
+        E 400 90 2d 4d
+        E 151 90 2e 60
+        E 80 80 2d 5c
+        E 1977 80 2e 7b
+        E 33 b0 7b 00
+        GUID {2174E98F-BEC7-4ED2-A7D0-222A07A99B93}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 128
+        VELLANE -1 100 0
+      >
+    >
+  >
+>
