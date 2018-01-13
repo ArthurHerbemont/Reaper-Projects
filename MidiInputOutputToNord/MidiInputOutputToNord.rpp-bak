@@ -1,0 +1,651 @@
+<REAPER_PROJECT 0.1 "5.70/x64" 1515258809
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 100 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 23 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 100 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 4.8 0
+  SELECTION2 4.8 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {CDFE22B8-B2FE-49D4-93CA-7261EC8ED029}
+    NAME "Midi Connection Test"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 4128 1 7 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CDFE22B8-B2FE-49D4-93CA-7261EC8ED029}
+    PERF 0
+    MIDIOUT 96
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {947967A1-2D79-4CC1-839F-C388FB271B76}
+      IID 3
+      NAME "Midi Connection Test untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB22E730-CD0A-4B8A-9D24-ABE68D8B7E47}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {B2DC29DA-8C62-491A-84F9-45B7EC418326}
+        E 0 c9 0d 00
+        E 0 c9 0e 00
+        E 0 c9 0e 00
+        E 0 c9 0e 00
+        E 0 c9 0e 00
+        E 0 b9 34 64
+        E 0 b9 34 64
+        E 0 b9 0e 57
+        E 0 b9 34 64
+        E 0 b9 0e 5c
+        E 0 b9 34 64
+        E 0 b9 0e 40
+        E 0 b9 34 64
+        E 0 b9 0e 40
+        E 0 b9 34 64
+        E 0 b9 0e 40
+        E 0 b9 34 64
+        E 0 b9 0e 40
+        E 0 b9 34 64
+        E 0 b9 0e 40
+        E 0 b9 34 64
+        E 0 b9 0e 40
+        E 0 b9 34 64
+        E 0 99 40 45
+        E 13 89 40 64
+        E 26 99 3c 4f
+        E 42 89 3c 64
+        E 45 b9 0e 03
+        E 64 b9 0e 06
+        E 3 c9 0d 00
+        E 240 99 40 20
+        E 39 89 40 64
+        E 385 c9 0e 00
+        E 70 b9 34 57
+        E 22 99 41 42
+        E 2 99 3e 60
+        E 24 99 40 4d
+        E 10 89 41 64
+        E 4 b9 0e 06
+        E 5 89 3e 64
+        E 17 89 40 64
+        E 182 99 41 3c
+        E 39 89 41 64
+        E 38 b9 0e 08
+        E 36 b9 34 59
+        E 89 b9 0e 0b
+        E 43 99 40 1b
+        E 42 89 40 64
+        E 4 b9 0e 0d
+        E 215 c9 0f 00
+        E 105 b9 0e 0d
+        E 39 b9 34 5c
+        E 44 99 3c 58
+        E 37 89 3c 64
+        E 23 99 40 44
+        E 36 89 40 64
+        E 31 b9 0e 10
+        E 7 b9 0e 10
+        E 247 c9 10 00
+        E 23 b9 0e 12
+        E 117 99 41 47
+        E 5 b9 0e 15
+        E 4 99 40 1e
+        E 26 89 41 64
+        E 10 89 40 64
+        E 18 b9 0e 15
+        E 24 b9 34 5e
+        E 88 b9 0e 17
+        E 35 99 41 3a
+        E 39 89 41 64
+        E 6 b9 0e 1a
+        E 78 b9 0e 1c
+        E 14 b9 0e 1f
+        E 139 99 3e 5a
+        E 28 99 40 3b
+        E 8 89 3e 64
+        E 14 b9 0e 22
+        E 12 89 40 64
+        E 14 c9 0f 00
+        E 16 b9 34 61
+        E 222 b9 0e 24
+        E 155 c9 0d 00
+        E 21 99 40 1e
+        E 16 99 43 6a
+        E 1 b9 34 64
+        E 25 89 40 64
+        E 8 89 43 64
+        E 35 b9 0e 27
+        E 101 c9 0e 00
+        E 125 b9 0e 29
+        E 50 b9 34 66
+        E 68 99 3c 55
+        E 39 89 3c 64
+        E 18 b9 0e 2c
+        E 13 99 40 46
+        E 37 89 40 64
+        E 4 c9 0e 00
+        E 55 b9 0e 2e
+        E 16 b9 34 69
+        E 75 c9 0d 00
+        E 129 b9 0e 31
+        E 80 b9 0e 1f
+        E 58 99 40 1d
+        E 1 b9 34 6b
+        E 36 89 40 64
+        E 103 b9 0e 22
+        E 133 b9 34 6e
+        E 46 b9 0e 22
+        E 131 b9 0e 24
+        E 9 99 41 3b
+        E 27 99 40 38
+        E 10 89 41 64
+        E 15 b9 34 70
+        E 4 99 3e 5e
+        E 8 89 40 64
+        E 33 89 3e 64
+        E 98 b9 0e 24
+        E 0 b9 0e 27
+        E 54 99 41 3a
+        E 36 89 41 64
+        E 48 b9 34 73
+        E 123 b9 0e 27
+        E 22 99 40 20
+        E 32 b9 0e 29
+        E 5 89 40 64
+        E 61 b9 34 75
+        E 69 c9 0e 00
+        E 22 b9 0e 29
+        E 69 b9 0e 2c
+        E 180 99 3c 54
+        E 38 b9 0e 2c
+        E 5 89 3c 64
+        E 7 99 40 4a
+        E 30 b9 0e 2e
+        E 5 89 40 64
+        E 142 b9 0e 31
+        E 53 b9 0e 2e
+        E 69 b9 0e 31
+        E 71 b9 0e 31
+        E 38 b9 0e 33
+        E 65 99 40 1b
+        E 30 99 41 3f
+        E 10 89 40 64
+        E 26 89 41 64
+        E 7 b9 0e 36
+        E 46 b9 0e 33
+        E 148 b9 0e 36
+        E 8 99 41 44
+        E 38 89 41 64
+        E 49 b9 0e 38
+        E 14 b9 0e 3b
+        E 31 b9 34 73
+        E 74 99 3e 51
+        E 29 b9 34 70
+        E 0 99 40 40
+        E 9 89 3e 64
+        E 25 89 40 64
+        E 89 b9 34 6e
+        E 51 b9 0e 3b
+        E 11 b9 0e 3d
+        E 59 b9 34 6b
+        E 65 b9 0e 40
+        E 84 b9 34 69
+        E 26 b9 0e 54
+        E 32 99 45 58
+        E 15 99 40 20
+        E 21 89 45 64
+        E 16 89 40 64
+        E 72 c9 0d 00
+        E 10 b9 0e 57
+        E 24 b9 34 66
+        E 60 99 45 53
+        E 38 b9 0e 59
+        E 1 89 45 64
+        E 97 b9 0e 57
+        E 0 b9 0e 5c
+        E 20 b9 34 64
+        E 110 b0 7b 00
+        GUID {715770BA-EE2F-45E0-9562-5897CDC096BA}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 25
+        VELLANE -1 123 0
+      >
+    >
+  >
+  <TRACK {FF898803-7A95-4E4C-9360-980F62A32415}
+    NAME "Drum Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 1 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FF898803-7A95-4E4C-9360-980F62A32415}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 4.8
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {79A4AA4D-DAB7-4BDF-882A-6E1F88609ADD}
+      IID 4
+      NAME "02-Drum Audio-180106_1809.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 21006215 R
+      GUID {748CF7C9-5491-45DA-AD76-7949A879FC10}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 4.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 32962240 R
+      GUID {064A83E2-4D24-4DFA-AE14-609F56C8B9D9}
+      RECPASS 3
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 9.6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 33029323 R
+      GUID {4A5251A5-5146-4E98-A1CB-F7CCBFD492C4}
+      RECPASS 4
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 14.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 27852661 R
+      GUID {0F7C8D21-5A6C-4F5B-A61E-888C199918AA}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 19.2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25460932 R
+      GUID {B7F4D4BD-CA62-4957-9ED8-F64157433D2C}
+      RECPASS 6
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24969094 R
+      GUID {6FDC44B1-F272-4DD3-AD3D-2305F4DC69EC}
+      RECPASS 7
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 28.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 30633852 R
+      GUID {3618626F-DEF3-467C-94BD-A85E58924BE0}
+      RECPASS 8
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 33.6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 27493862 R
+      GUID {72BE80DE-FEC7-4B5E-A8B2-DA0E30A244F7}
+      RECPASS 9
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 38.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24649382 R
+      GUID {B321A2DF-88E9-42EA-918E-C92610EC3F79}
+      RECPASS 10
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 43.2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 30523310 R
+      GUID {EF6AB938-377C-4587-A848-490871CFFDA6}
+      RECPASS 11
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 48
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 27253126 R
+      GUID {784C64D4-3976-40C4-B9B8-D1D583167E69}
+      RECPASS 12
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 52.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 29662874 R
+      GUID {4406E4AF-0A8F-4CAC-B8E9-0B82312D9B8C}
+      RECPASS 13
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 57.6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22063931 R
+      GUID {8944E891-3933-40A2-A37F-3AFBC6CC8DC6}
+      RECPASS 14
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 62.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25307109 R
+      GUID {F9EEED8F-3E96-4A3E-ABE9-0FE999A84D8A}
+      RECPASS 15
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 67.19997732426305
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 25160150 R
+      GUID {8634C3DD-D744-46ED-A92D-E7B6282E6F02}
+      RECPASS 16
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 72
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 23021655 R
+      GUID {A1E2CC83-1218-4BBD-8680-E289403A260E}
+      RECPASS 17
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 76.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 19374534 R
+      GUID {9E119CEF-25F8-4189-BF3B-2388E6DA7C60}
+      RECPASS 18
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 81.59997732426304
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 18068838 R
+      GUID {D7EAE650-D49E-44BD-9CEF-4F4D37D55CEA}
+      RECPASS 19
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 86.39997732426303
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 30136658 R
+      GUID {F5DE6F8A-2C44-45D5-977A-114FC56BC799}
+      RECPASS 20
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 91.19997732426305
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 30208895 R
+      GUID {469330C6-7E26-466C-9639-76783BA8AB77}
+      RECPASS 21
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 96
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26541948 R
+      GUID {82F52CC3-9065-4DD2-AA3A-DB0F2AA1F001}
+      RECPASS 22
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 100.8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24444875 R
+      GUID {D4CE36BA-09E6-4038-8688-7A4D404D5F83}
+      RECPASS 23
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 105.6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 28441227 R
+      GUID {054AE5D6-0EBD-41D6-92DB-5B4539F7E846}
+      RECPASS 24
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 110.4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24030467 R
+      GUID {1C0DECCD-63E4-4862-84D0-8ACCA4C1D03B}
+      RECPASS 25
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+      TAKE SEL
+      NAME "02-Drum Audio-180106_1809.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 115.2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 22817719 R
+      GUID {27E7CFD2-5245-4E54-803A-C8A3DCBB515E}
+      RECPASS 26
+      <SOURCE WAVE
+        FILE "02-Drum Audio-180106_1809.wav"
+      >
+    >
+  >
+>
